@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Galic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="requests">Requests</string>
+    <string name="recommends">Recommends</string>
+    <string name="offerings">Offerings</string>
+</resources>
